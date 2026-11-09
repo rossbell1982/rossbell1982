@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Ross Bell
 ### Technology & Product Leadership | Financial Services | Digital Transformation | AI-Enabled Engineering
 
