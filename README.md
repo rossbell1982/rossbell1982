@@ -7,13 +7,17 @@ My background spans product strategy, financial crime prevention, risk managemen
 
 Alongside my corporate experience, I'm actively designing and developing independent technology products, combining my background in product leadership and solution architecture with modern AI-assisted software engineering.
 
-### 🚀 Current Projects
+### 🚀 Featured Technology Projects
 
-**Open Trading Intelligence** — A financial markets intelligence and portfolio risk management platform integrating broker APIs, real-time market data, portfolio analytics and structured investment decision-making.
+**📈 [Open Trading Intelligence](https://github.com/rossbell1982/trading-intelligence-showcase)**
 
-**ORBIT** — An innovative, graph-native social networking platform exploring new approaches to relationship visualisation, network navigation, privacy and digital interaction.
+Financial markets intelligence and portfolio risk management platform integrating broker APIs, real-time market data, portfolio analytics and structured investment decision-making.
 
-Both projects demonstrate my approach to the full technology delivery lifecycle, from product vision, requirements engineering and architectural design through to AI-assisted implementation, automated testing and iterative development.
+**🌐 [ORBIT — Graph-Native Social Network](https://github.com/rossbell1982/orbit-project-showcase)**
+
+An innovative graph-native social networking platform exploring relationship visualisation, network navigation, privacy engineering and next-generation digital interaction.
+
+*Both projects are independently developed using structured product delivery methodologies and AI-assisted software engineering. Source code is maintained in private repositories.*
 
 ### 💡 My Approach
 
